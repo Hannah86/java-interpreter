@@ -1,4 +1,4 @@
-# java-interpreterst
+# java-interpreter
 To run the project, first, download the project.
 ```
 git clone https://github.com/Hannah86/java-interpreter.git
