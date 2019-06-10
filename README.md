@@ -1,4 +1,5 @@
 # java-interpreter
+This project is a basic Java interpreter using Scala programming language.
 To run the project, first, download the project.
 ```
 git clone https://github.com/Hannah86/java-interpreter.git
